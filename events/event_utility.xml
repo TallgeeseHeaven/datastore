@@ -670,7 +670,7 @@
             </element>
         </member>
     </object>
-    <!-- Reactivate Switch Skills -->
+    <!-- Reactivate Saved Switch Skills -->
     <object name="EventPerformActions">
         <member name="ID">REACTIVATE_SAVED_SWITCH_SKILLS</member>
         <member name="actions">
